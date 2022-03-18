@@ -1,0 +1,55 @@
+input {
+    position: relative;
+    width: calc(100% - 0rem);
+    padding: .9rem 0rem .1rem 0rem;
+    border: none;
+    border-bottom: 1px dashed $zwart;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+
+    &:focus {
+        border: none;
+        border-bottom: 1px solid $zwart;
+        outline: none;
+    }
+
+    &:-webkit-autofill, &:-webkit-autofill:focus {
+        transition: background-color 600000s 0s, color 600000s 0s;
+    }
+
+   
+}
+
+input + label {
+	
+    position: absolute;
+    top: 14px;
+    left: 0px;
+    transition: top 250 ease-in-out;
+}
+
+input:not([value=""]):not(:invalid) + label, input:focus + label {
+
+    top: -9px;
+}
+
+.valid:after {
+    content: url('/icons/check.svg');
+    position: absolute;
+    top: .7rem;
+    right: 0;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.invalid:after {
+    content: '!';
+    position: absolute;
+    top: .7rem;
+    right: 0;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+

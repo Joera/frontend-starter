@@ -1,0 +1,61 @@
+form {
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+
+	p  { line-height: 1.44; margin: 1.5rem 0; font-size: 1rem; }
+
+	label {
+		font-family: "Gotham Light";
+		font-size: 1rem;
+		text-transform: lowercase;
+	}
+
+	input, textarea, select {
+
+		font-family: 'Gotham Medium', arial;
+		color: $zwart;
+		background: transparent;
+		font-size: 1rem;
+		line-height: 1.45;
+	}
+
+	.field-wrapper {
+
+		position: relative;
+		top: auto;
+		left: auto;
+		width: auto;
+		margin: 1rem auto;
+		list-style: none;
+
+		&.half {
+
+			width: 100%;
+	
+			@media (min-width : $breakpoint-sm) {
+				width: calc(50% - 1rem);
+			}
+	
+			&:nth-child(odd) {
+	
+				@media (min-width : $breakpoint-sm) {
+					width: calc(50% -1rem);
+					margin-left: 2rem;
+				}
+			}
+		}
+	
+		&.full {
+	
+			width: 100%;
+			display: flex;
+			flex-direction: column;
+		}
+	}
+}
+
+
+

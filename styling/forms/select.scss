@@ -1,0 +1,19 @@
+select {
+    position: relative;
+    background-color: white;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;       /* remove default arrow */
+    //background-image: url('/assets/icons/checkmark.svg');   /* add custom arrow */
+    //background-position: 97% 50%;
+    //background-repeat: no-repeat;
+    border-radius: 0;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid $grijs;
+
+    background-size: 1.8rem 1.8rem;
+    background-image: url('/assets/icons/chevron-up.svg') no-repeat 95% 22px;
+
+
+}

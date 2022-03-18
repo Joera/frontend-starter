@@ -1,0 +1,65 @@
+.beeldmerk {
+    margin-top: 2rem;
+}
+
+
+form #events_wrapper {
+
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    > h3 {
+        display: none;
+        width: 100%;
+    }
+
+    > div.field-wrapper {
+        margin: .75rem 0;
+    }
+
+    &.visible > h3 {
+        display: flex;
+    }
+}
+
+
+#web3-connect {
+    // align-self: flex-start;
+    margin-bottom: 1rem;
+}
+
+#abi-wrapper {
+
+    max-height: 300px;
+    overflow: hidden;
+    transition: max-height 500ms ease-in-out;
+
+    &.completed {
+        max-height: 0;
+    }
+}
+
+#abi_parse_button {
+
+    margin-top: 1rem;
+    align-self: center;
+}
+
+h3 {
+    align-self: flex-start;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+button[type=submit] {
+
+    margin: 0 0 3rem 0;
+    align-self: center;
+    background: $zwart;
+    color: $wit;
+
+}

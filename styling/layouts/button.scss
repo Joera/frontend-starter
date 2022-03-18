@@ -1,0 +1,46 @@
+button, input[type=submit] {
+
+	//@extend h2;
+	position: relative;
+	overflow: hidden;
+	border: none;
+	height: 40px;
+	line-height: 40px;
+	padding: 0 1em;
+	background: transparent;
+	color: $zwart;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+    border: 1px solid $zwart;
+    border-radius: 7px;
+
+	font-family: "Gotham Bold";
+	font-weight: normal;
+	text-transform: uppercase;
+    font-size: .825rem;
+	cursor: pointer;
+
+	//box-shadow: rgba(0, 0, 0, 0.08) 0px 8px 28px;
+
+	&:hover {
+		background: $zwart;
+		color: $wit;
+		// border: 3px solid $zwart;
+	}
+
+	&:disabled {
+		font-size: 0;
+	}
+
+	&.large {
+
+		width: calc(1220px / 3);
+		background: $blauw;
+		color: $wit;
+
+		&:hover {
+			background: $wit;
+		}
+	}
+}

@@ -1,0 +1,311 @@
+<svg width="1248px" height="1084px" viewBox="0 0 1248 1084" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="butterfly">
+            <g id="body" transform="translate(505.000000, 88.000000)">
+                <path d="M92.5,436.5 L120.5,628.5" id="Line-32" stroke="#000" stroke-linecap="square" stroke-width="2"></path>
+                <path d="M148.5,435.5 L122.5,628.5" id="Line-33" stroke="#000" stroke-linecap="square" stroke-width="2"></path>
+                <path d="M94.5,288.5 L94.5,323.5" id="Line-34" stroke="#000" stroke-linecap="square" stroke-width="2"></path>
+                <path d="M107.5,263.5 L98.5,276.5" id="Line-35" stroke="#000" stroke-linecap="square" stroke-width="2"></path>
+                <path d="M134.5,263.5 L143.5,276.5" id="Line-35" stroke="#000" stroke-linecap="square" stroke-width="2"></path>
+                <path d="M147.5,288.5 L144.5,323.5" id="Line-36" stroke="#000" stroke-linecap="square" stroke-width="2"></path>
+                <path d="M117.5,257.5 L125.5,257.5" id="Line-37" stroke="#000" stroke-linecap="square" stroke-width="2"></path>
+                <path d="M185.5,150.5 L133.5,251.5" id="Line-38" stroke="#000" stroke-linecap="square" stroke-width="2"></path>
+                <path d="M58.5,150.5 L108.5,252.5" id="Line-39" stroke="#000" stroke-linecap="square" stroke-width="2"></path>
+                <path d="M235.5,11.5 L190.5,138.5" id="Line-40" stroke="#000" stroke-linecap="square" stroke-width="2"></path>
+                <path d="M6.5,11.5 L53.5,138.5" id="Line-41" stroke="#000" stroke-linecap="square" stroke-width="2"></path>
+                <path d="M157.937012,396.076904 L157.301758,399.334961" id="Line-31" stroke="#000000" stroke-linecap="square"></path>
+                <circle id="Oval-Copy-2" fill="#000" cx="6" cy="6" r="6"></circle>
+                <circle id="Oval-Copy-2" fill="#000" cx="237" cy="6" r="6"></circle>
+                <circle id="Oval-Copy-2" fill="#000" cx="131" cy="258" r="6"></circle>
+                <circle id="Oval-Copy-2" fill="#000" cx="95" cy="282" r="6"></circle>
+                <circle id="Oval-Copy-2" fill="#000" cx="147" cy="282" r="6"></circle>
+                <circle id="Oval-Copy-2" fill="#000" cx="121" cy="635" r="6"></circle>
+                <circle id="Oval-Copy-2" fill="#000" cx="111" cy="258" r="6"></circle>
+                <circle id="Oval-Copy-2" fill="#000" cx="56" cy="145" r="6"></circle>
+                <circle id="Oval-Copy-2" fill="#000" cx="188" cy="145" r="6"></circle>
+            </g>
+            <g id="right--bottom" transform="translate(914.000000, 771.000000) scale(1, -1) translate(-914.000000, -771.000000) translate(649.000000, 458.000000)">
+                <g id="relations" transform="translate(7.000000, 11.000000)" stroke="#000" stroke-linecap="square" stroke-width="2">
+                    <path d="M304.5,428.5 L382.5,494.5" id="Line-27"></path>
+                    <path d="M234.5,497.5 L274.5,463.5" id="Line-28"></path>
+                    <path d="M205.5,450.5 L226.5,496.5" id="Line-29"></path>
+                    <path d="M230.5,508.5 L276.5,579.5" id="Line-30"></path>
+                    <path d="M409.5,418.5 L389.5,491.5" id="Line-25"></path>
+                    <path d="M7.5,601.5 L7.5,609.5" id="Line-23"></path>
+                    <path d="M393.5,345.5 L409.5,405.5" id="Line-24"></path>
+                    <path d="M12.5,591.5 L223.5,504.5" id="Line-22"></path>
+                    <path d="M272.5,586.5 L13.5,614.5" id="Line-20"></path>
+                    <path d="M385.5,342.5 L278.5,392.5" id="Line-18"></path>
+                    <path d="M154.5,370.5 L125.5,484.5" id="Line-17"></path>
+                    <path d="M118.5,494.5 L10.5,575.5" id="Line-16"></path>
+                    <path d="M0.5,561.5 L3.5,572.5" id="Line-5"></path>
+                    <path d="M149.5,363.5 L89.5,347.5" id="Line-14"></path>
+                    <path d="M196.5,389.5 L200.5,437.5" id="Line-15"></path>
+                    <path d="M229.5,366.5 L254.5,372.5" id="Line-6"></path>
+                    <path d="M200.5,379.5 L217.5,367.5" id="Line-26"></path>
+                    <path d="M190.5,379.5 L161.5,367.5" id="Line-12"></path>
+                    <path d="M272.5,223.5 L229.5,235.5" id="Line-11"></path>
+                    <path d="M388.5,141.5 L367.5,234.5" id="Line-10"></path>
+                    <path d="M512.5,0.5 L395.5,130.5" id="Line-9"></path>
+                    <path d="M294.5,321.5 L263.5,371.5" id="Line-7"></path>
+                    <path d="M280.5,228.5 L296.5,310.5" id="Line-8"></path>
+                    <path d="M284.5,218.5 L386.5,139.5" id="Line-3"></path>
+                    <path d="M80.5,351.5 L1.5,549.5" id="Line"></path>
+                    <path d="M135.5,247.5 L216.5,238.5" id="Line-2"></path>
+                    <path d="M85.5,340.5 L126.5,254.5" id="Line-Copy"></path>
+                    <path d="M382.5,502.5 L284.5,581.5" id="Path"></path>
+                    <path d="M263.5,382.5 L269.5,389.5" id="Path"></path>
+                    <path d="M367.5,246.5 L389.5,333.5" id="Path"></path>
+                    <path d="M297.5,429.5 L283.5,453.5" id="Path"></path>
+                    <path d="M295.5,418.5 L277.5,399.5" id="Path"></path>
+                </g>
+                <g id="nodes" fill="#000">
+                    <circle id="Oval" cx="90" cy="357" r="6"></circle>
+                    <circle id="Oval" cx="136" cy="260" r="6"></circle>
+                    <circle id="Oval" cx="230" cy="376" r="6"></circle>
+                    <circle id="Oval" cx="203" cy="394" r="6"></circle>
+                    <circle id="Oval" cx="209" cy="455" r="6"></circle>
+                    <circle id="Oval" cx="163" cy="376" r="6"></circle>
+                    <circle id="Oval" cx="12" cy="590" r="6"></circle>
+                    <circle id="Oval" cx="6" cy="566" r="6"></circle>
+                    <circle id="Oval-Copy" cx="14" cy="606" r="6"></circle>
+                    <circle id="Oval-Copy" cx="130" cy="502" r="6"></circle>
+                    <circle id="Oval-Copy" cx="236" cy="514" r="6"></circle>
+                    <circle id="Oval-Copy" cx="267" cy="388" r="6"></circle>
+                    <circle id="Oval-Copy" cx="307" cy="435" r="6"></circle>
+                    <circle id="Oval-Copy" cx="286" cy="470" r="6"></circle>
+                    <circle id="Oval-Copy" cx="418" cy="423" r="6"></circle>
+                    <circle id="Oval-Copy" cx="286" cy="596" r="6"></circle>
+                    <circle id="Oval-Copy" cx="395" cy="509" r="6"></circle>
+                    <circle id="Oval-Copy" cx="395" cy="509" r="6"></circle>
+                    <circle id="Oval-Copy" cx="398" cy="351" r="6"></circle>
+                    <circle id="Oval-Copy" cx="280" cy="406" r="6"></circle>
+                    <circle id="Oval-Copy" cx="524" cy="6" r="6"></circle>
+                    <circle id="Oval-Copy" cx="304" cy="327" r="6"></circle>
+                    <circle id="Oval-Copy" cx="230" cy="248" r="6"></circle>
+                    <circle id="Oval-Copy" cx="373" cy="251" r="6"></circle>
+                    <circle id="Oval-Copy" cx="286" cy="233" r="6"></circle>
+                    <circle id="Oval" cx="398" cy="146" r="6"></circle>
+                </g>
+            </g>
+            <g id="left--bottom" transform="translate(337.000000, 771.000000) scale(-1, -1) translate(-337.000000, -771.000000) translate(72.000000, 458.000000)">
+                <g id="relations" transform="translate(7.000000, 11.000000)" stroke="#000" stroke-linecap="square" stroke-width="2">
+                    <path d="M304.5,428.5 L382.5,494.5" id="Line-27"></path>
+                    <path d="M234.5,497.5 L274.5,463.5" id="Line-28"></path>
+                    <path d="M205.5,450.5 L226.5,496.5" id="Line-29"></path>
+                    <path d="M230.5,508.5 L276.5,579.5" id="Line-30"></path>
+                    <path d="M409.5,418.5 L389.5,491.5" id="Line-25"></path>
+                    <path d="M7.5,601.5 L7.5,609.5" id="Line-23"></path>
+                    <path d="M393.5,345.5 L409.5,405.5" id="Line-24"></path>
+                    <path d="M12.5,591.5 L223.5,504.5" id="Line-22"></path>
+                    <path d="M272.5,586.5 L13.5,614.5" id="Line-20"></path>
+                    <path d="M385.5,342.5 L278.5,392.5" id="Line-18"></path>
+                    <path d="M154.5,370.5 L125.5,484.5" id="Line-17"></path>
+                    <path d="M118.5,494.5 L10.5,575.5" id="Line-16"></path>
+                    <path d="M0.5,561.5 L3.5,572.5" id="Line-5"></path>
+                    <path d="M149.5,363.5 L89.5,347.5" id="Line-14"></path>
+                    <path d="M196.5,389.5 L200.5,437.5" id="Line-15"></path>
+                    <path d="M229.5,366.5 L254.5,372.5" id="Line-6"></path>
+                    <path d="M200.5,379.5 L217.5,367.5" id="Line-26"></path>
+                    <path d="M190.5,379.5 L161.5,367.5" id="Line-12"></path>
+                    <path d="M272.5,223.5 L229.5,235.5" id="Line-11"></path>
+                    <path d="M388.5,141.5 L367.5,234.5" id="Line-10"></path>
+                    <path d="M512.5,0.5 L395.5,130.5" id="Line-9"></path>
+                    <path d="M294.5,321.5 L263.5,371.5" id="Line-7"></path>
+                    <path d="M280.5,228.5 L296.5,310.5" id="Line-8"></path>
+                    <path d="M284.5,218.5 L386.5,139.5" id="Line-3"></path>
+                    <path d="M80.5,351.5 L1.5,549.5" id="Line"></path>
+                    <path d="M135.5,247.5 L216.5,238.5" id="Line-2"></path>
+                    <path d="M85.5,340.5 L126.5,254.5" id="Line-Copy"></path>
+                    <path d="M382.5,502.5 L284.5,581.5" id="Path"></path>
+                    <path d="M263.5,382.5 L269.5,389.5" id="Path"></path>
+                    <path d="M367.5,246.5 L389.5,333.5" id="Path"></path>
+                    <path d="M297.5,429.5 L283.5,453.5" id="Path"></path>
+                    <path d="M295.5,418.5 L277.5,399.5" id="Path"></path>
+                </g>
+                <g id="nodes" fill="#000">
+                    <circle id="Oval" cx="90" cy="357" r="6"></circle>
+                    <circle id="Oval" cx="136" cy="260" r="6"></circle>
+                    <circle id="Oval" cx="230" cy="376" r="6"></circle>
+                    <circle id="Oval" cx="203" cy="394" r="6"></circle>
+                    <circle id="Oval" cx="209" cy="455" r="6"></circle>
+                    <circle id="Oval" cx="163" cy="376" r="6"></circle>
+                    <circle id="Oval" cx="12" cy="590" r="6"></circle>
+                    <circle id="Oval" cx="6" cy="566" r="6"></circle>
+                    <circle id="Oval-Copy" cx="14" cy="606" r="6"></circle>
+                    <circle id="Oval-Copy" cx="130" cy="502" r="6"></circle>
+                    <circle id="Oval-Copy" cx="236" cy="514" r="6"></circle>
+                    <circle id="Oval-Copy" cx="267" cy="388" r="6"></circle>
+                    <circle id="Oval-Copy" cx="307" cy="435" r="6"></circle>
+                    <circle id="Oval-Copy" cx="286" cy="470" r="6"></circle>
+                    <circle id="Oval-Copy" cx="418" cy="423" r="6"></circle>
+                    <circle id="Oval-Copy" cx="286" cy="596" r="6"></circle>
+                    <circle id="Oval-Copy" cx="395" cy="509" r="6"></circle>
+                    <circle id="Oval-Copy" cx="395" cy="509" r="6"></circle>
+                    <circle id="Oval-Copy" cx="398" cy="351" r="6"></circle>
+                    <circle id="Oval-Copy" cx="280" cy="406" r="6"></circle>
+                    <circle id="Oval-Copy" cx="524" cy="6" r="6"></circle>
+                    <circle id="Oval-Copy" cx="304" cy="327" r="6"></circle>
+                    <circle id="Oval-Copy" cx="230" cy="248" r="6"></circle>
+                    <circle id="Oval-Copy" cx="373" cy="251" r="6"></circle>
+                    <circle id="Oval-Copy" cx="286" cy="233" r="6"></circle>
+                    <circle id="Oval" cx="398" cy="146" r="6"></circle>
+                </g>
+            </g>
+            <g id="right-top-copy" transform="translate(643.000000, 0.000000)">
+                <g id="relations" transform="translate(8.000000, 6.000000)" stroke="#000" stroke-linecap="square" stroke-width="2">
+                    <path d="M268.5,300.5 L396.5,283.5" id="Line-27"></path>
+                    <path d="M187.5,298.5 L255.5,300.5" id="Line-28"></path>
+                    <path d="M261.5,305.5 L257.5,366.5" id="Line-29"></path>
+                    <path d="M252.5,377.5 L184.5,449.5" id="Line-30"></path>
+                    <path d="M402.5,289.5 L393.5,362.5" id="Line-25"></path>
+                    <path d="M184.5,452.5 L295.5,461.5" id="Line-23"></path>
+                    <path d="M419.5,168.5 L404.5,276.5" id="Line-24"></path>
+                    <path d="M18.5,452.5 L171.5,452.5" id="Line-22"></path>
+                    <path d="M352.5,459.5 L308.5,461.5" id="Line-21"></path>
+                    <path d="M413.5,424.5 L364.5,454.5" id="Line-20"></path>
+                    <path d="M429.598633,362.571289 L418.35791,413.851074" id="Line-19"></path>
+                    <path d="M440.5,294.5 L432.5,349.5" id="Line-18"></path>
+                    <path d="M459.5,227.5 L442.5,282.5" id="Line-17"></path>
+                    <path d="M175.5,302.5 L12.5,429.5" id="Line-16"></path>
+                    <path d="M0.5,418.5 L4.5,425.5" id="Line-4"></path>
+                    <path d="M8.5,438.5 L10.5,445.5" id="Line-5"></path>
+                    <path d="M232.5,217.5 L220.5,251.5" id="Line-14"></path>
+                    <path d="M214.5,261.5 L184.5,293.5" id="Line-15"></path>
+                    <path d="M224.5,253.5 L415.5,165.5" id="Line-13"></path>
+                    <path d="M299.5,98.5 L236.5,206.5" id="Line-12"></path>
+                    <path d="M377.5,75.5 L308.5,89.5" id="Line-11"></path>
+                    <path d="M465.5,42.5 L390.5,70.5" id="Line-10"></path>
+                    <path d="M585.5,3.5 L476.5,36.5" id="Line-9"></path>
+                    <path d="M562.5,75.5 L486.5,102.5" id="Line-7"></path>
+                    <path d="M475.5,108.5 L426.5,157.5" id="Line-8"></path>
+                    <path d="M410.5,10.5 L584.5,0.5" id="Line-3"></path>
+                    <path d="M72.5,247.5 L1.5,406.5" id="Line"></path>
+                    <path d="M187.5,120.5 L231.5,205.5" id="Line-2"></path>
+                    <path d="M79.5,236.5 L179.5,119.5" id="Line-Copy"></path>
+                    <path d="M189.5,111.5 L398.5,14.5" id="Line-Copy-2"></path>
+                    <path d="M390.5,374.5 L306.5,457.5" id="Path"></path>
+                    <path d="M424.5,167.5 L456.5,219.5" id="Path"></path>
+                    <path d="M409.5,283.5 L434.5,287.5" id="Path"></path>
+                    <path d="M399.5,366.5 L425.5,358.5" id="Path"></path>
+                    <path d="M386.5,79.5 L420.5,156.5" id="Path"></path>
+                    <path d="M588.5,5.5 L570.5,66.5" id="Path"></path>
+                    <path d="M566.5,79.5 L465.5,216.5" id="Path"></path>
+                </g>
+                <g id="nodes" fill="#000">
+                    <circle id="Oval" cx="83" cy="248" r="6"></circle>
+                    <circle id="Oval" cx="192" cy="121" r="6"></circle>
+                    <circle id="Oval" cx="241" cy="218" r="6"></circle>
+                    <circle id="Oval" cx="226" cy="263" r="6"></circle>
+                    <circle id="Oval" cx="188" cy="304" r="6"></circle>
+                    <circle id="Oval" cx="188" cy="304" r="6"></circle>
+                    <circle id="Oval" cx="15" cy="438" r="6"></circle>
+                    <circle id="Oval" cx="6" cy="418" r="6"></circle>
+                    <circle id="Oval-Copy" cx="20" cy="458" r="6"></circle>
+                    <circle id="Oval-Copy" cx="186" cy="458" r="6"></circle>
+                    <circle id="Oval-Copy" cx="264" cy="379" r="6"></circle>
+                    <circle id="Oval-Copy" cx="270" cy="306" r="6"></circle>
+                    <circle id="Oval-Copy" cx="270" cy="306" r="6"></circle>
+                    <circle id="Oval-Copy" cx="270" cy="306" r="6"></circle>
+                    <circle id="Oval-Copy" cx="270" cy="306" r="6"></circle>
+                    <circle id="Oval-Copy" cx="411" cy="289" r="6"></circle>
+                    <circle id="Oval-Copy" cx="367" cy="464" r="6"></circle>
+                    <circle id="Oval-Copy" cx="310" cy="468" r="6"></circle>
+                    <circle id="Oval-Copy" cx="401" cy="375" r="6"></circle>
+                    <circle id="Oval-Copy" cx="401" cy="375" r="6"></circle>
+                    <circle id="Oval-Copy" cx="439" cy="362" r="6"></circle>
+                    <circle id="Oval-Copy" cx="449" cy="294" r="6"></circle>
+                    <circle id="Oval-Copy" cx="469" cy="228" r="6"></circle>
+                    <circle id="Oval-Copy" cx="577" cy="79" r="6"></circle>
+                    <circle id="Oval-Copy" cx="599" cy="6" r="6"></circle>
+                    <circle id="Oval-Copy" cx="479" cy="45" r="6"></circle>
+                    <circle id="Oval-Copy" cx="479" cy="45" r="6"></circle>
+                    <circle id="Oval-Copy" cx="392" cy="79" r="6"></circle>
+                    <circle id="Oval-Copy" cx="429" cy="168" r="6"></circle>
+                    <circle id="Oval-Copy" cx="489" cy="111" r="6"></circle>
+                    <circle id="Oval-Copy" cx="489" cy="111" r="6"></circle>
+                    <circle id="Oval-Copy" cx="310" cy="99" r="6"></circle>
+                    <circle id="Oval-Copy" cx="424" cy="426" r="6"></circle>
+                    <circle id="Oval" cx="412" cy="18" r="6"></circle>
+                </g>
+            </g>
+            <g id="left-top" transform="translate(302.500000, 237.000000) scale(-1, 1) translate(-302.500000, -237.000000) ">
+                <g id="relations" transform="translate(8.000000, 6.000000)" stroke="#000" stroke-linecap="square" stroke-width="2">
+                    <path d="M268.5,300.5 L396.5,283.5" id="Line-27"></path>
+                    <path d="M187.5,298.5 L255.5,300.5" id="Line-28"></path>
+                    <path d="M261.5,305.5 L257.5,366.5" id="Line-29"></path>
+                    <path d="M252.5,377.5 L184.5,449.5" id="Line-30"></path>
+                    <path d="M402.5,289.5 L393.5,362.5" id="Line-25"></path>
+                    <path d="M184.5,452.5 L295.5,461.5" id="Line-23"></path>
+                    <path d="M419.5,168.5 L404.5,276.5" id="Line-24"></path>
+                    <path d="M18.5,452.5 L171.5,452.5" id="Line-22"></path>
+                    <path d="M352.5,459.5 L308.5,461.5" id="Line-21"></path>
+                    <path d="M413.5,424.5 L364.5,454.5" id="Line-20"></path>
+                    <path d="M429.598633,362.571289 L418.35791,413.851074" id="Line-19"></path>
+                    <path d="M440.5,294.5 L432.5,349.5" id="Line-18"></path>
+                    <path d="M459.5,227.5 L442.5,282.5" id="Line-17"></path>
+                    <path d="M175.5,302.5 L12.5,429.5" id="Line-16"></path>
+                    <path d="M0.5,418.5 L4.5,425.5" id="Line-4"></path>
+                    <path d="M8.5,438.5 L10.5,445.5" id="Line-5"></path>
+                    <path d="M232.5,217.5 L220.5,251.5" id="Line-14"></path>
+                    <path d="M214.5,261.5 L184.5,293.5" id="Line-15"></path>
+                    <path d="M224.5,253.5 L415.5,165.5" id="Line-13"></path>
+                    <path d="M299.5,98.5 L236.5,206.5" id="Line-12"></path>
+                    <path d="M377.5,75.5 L308.5,89.5" id="Line-11"></path>
+                    <path d="M465.5,42.5 L390.5,70.5" id="Line-10"></path>
+                    <path d="M585.5,3.5 L476.5,36.5" id="Line-9"></path>
+                    <path d="M562.5,75.5 L486.5,102.5" id="Line-7"></path>
+                    <path d="M475.5,108.5 L426.5,157.5" id="Line-8"></path>
+                    <path d="M410.5,10.5 L584.5,0.5" id="Line-3"></path>
+                    <path d="M72.5,247.5 L1.5,406.5" id="Line"></path>
+                    <path d="M187.5,120.5 L231.5,205.5" id="Line-2"></path>
+                    <path d="M79.5,236.5 L179.5,119.5" id="Line-Copy"></path>
+                    <path d="M189.5,111.5 L398.5,14.5" id="Line-Copy-2"></path>
+                    <path d="M390.5,374.5 L306.5,457.5" id="Path"></path>
+                    <path d="M424.5,167.5 L456.5,219.5" id="Path"></path>
+                    <path d="M409.5,283.5 L434.5,287.5" id="Path"></path>
+                    <path d="M399.5,366.5 L425.5,358.5" id="Path"></path>
+                    <path d="M386.5,79.5 L420.5,156.5" id="Path"></path>
+                    <path d="M588.5,5.5 L570.5,66.5" id="Path"></path>
+                    <path d="M566.5,79.5 L465.5,216.5" id="Path"></path>
+                </g>
+                <g id="nodes" fill="#000">
+                    <circle id="Oval" cx="83" cy="248" r="6"></circle>
+                    <circle id="Oval" cx="192" cy="121" r="6"></circle>
+                    <circle id="Oval" cx="241" cy="218" r="6"></circle>
+                    <circle id="Oval" cx="226" cy="263" r="6"></circle>
+                    <circle id="Oval" cx="188" cy="304" r="6"></circle>
+                    <circle id="Oval" cx="188" cy="304" r="6"></circle>
+                    <circle id="Oval" cx="15" cy="438" r="6"></circle>
+                    <circle id="Oval" cx="6" cy="418" r="6"></circle>
+                    <circle id="Oval-Copy" cx="20" cy="458" r="6"></circle>
+                    <circle id="Oval-Copy" cx="186" cy="458" r="6"></circle>
+                    <circle id="Oval-Copy" cx="264" cy="379" r="6"></circle>
+                    <circle id="Oval-Copy" cx="270" cy="306" r="6"></circle>
+                    <circle id="Oval-Copy" cx="270" cy="306" r="6"></circle>
+                    <circle id="Oval-Copy" cx="270" cy="306" r="6"></circle>
+                    <circle id="Oval-Copy" cx="270" cy="306" r="6"></circle>
+                    <circle id="Oval-Copy" cx="411" cy="289" r="6"></circle>
+                    <circle id="Oval-Copy" cx="367" cy="464" r="6"></circle>
+                    <circle id="Oval-Copy" cx="310" cy="468" r="6"></circle>
+                    <circle id="Oval-Copy" cx="401" cy="375" r="6"></circle>
+                    <circle id="Oval-Copy" cx="401" cy="375" r="6"></circle>
+                    <circle id="Oval-Copy" cx="439" cy="362" r="6"></circle>
+                    <circle id="Oval-Copy" cx="449" cy="294" r="6"></circle>
+                    <circle id="Oval-Copy" cx="469" cy="228" r="6"></circle>
+                    <circle id="Oval-Copy" cx="577" cy="79" r="6"></circle>
+                    <circle id="Oval-Copy" cx="599" cy="6" r="6"></circle>
+                    <circle id="Oval-Copy" cx="479" cy="45" r="6"></circle>
+                    <circle id="Oval-Copy" cx="479" cy="45" r="6"></circle>
+                    <circle id="Oval-Copy" cx="392" cy="79" r="6"></circle>
+                    <circle id="Oval-Copy" cx="429" cy="168" r="6"></circle>
+                    <circle id="Oval-Copy" cx="489" cy="111" r="6"></circle>
+                    <circle id="Oval-Copy" cx="489" cy="111" r="6"></circle>
+                    <circle id="Oval-Copy" cx="310" cy="99" r="6"></circle>
+                    <circle id="Oval-Copy" cx="424" cy="426" r="6"></circle>
+                    <circle id="Oval" cx="412" cy="18" r="6"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

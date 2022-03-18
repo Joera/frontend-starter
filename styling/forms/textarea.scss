@@ -1,0 +1,27 @@
+textarea {
+
+    position: relative;
+    padding: 1rem;
+    min-height: 200px;
+    margin: .75rem 0;
+    width: calc(100% - 2rem - 2px);
+    border: none;
+    border: 1px dashed $zwart;
+    border-radius: 9px;
+    
+
+    &:focus {
+        border: none;
+        border: 1px solid $zwart;
+        outline: none;
+        width: calc(100% - 2rem - 4px);
+        // margin-top: -1px;
+    }
+
+    // &:focus ~ label, &:valid ~ label {  /* , input:valid ~ label */ 
+	// 	font-size: 1rem;
+	// 	color: $wit;
+	// 	left: 0rem;
+	// 	top: -2.5rem;
+    // }
+}
