@@ -40,7 +40,7 @@
 	width: calc(100% - 2rem);
 	position: relative;
 	margin: 0 auto;
-	background: #fff;
+//	background: #fff;
 
 	@media (min-width : $breakpoint-md) {
 		width: calc(100% - 4rem);
@@ -56,7 +56,10 @@
 	width: calc(100% - 0rem);
 	position: relative;
 	margin: 0 auto;
-	background: #fff;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+//	background: #fff;
 
 	@media (min-width : $breakpoint-sm) {
 		width: calc(100% - 4rem);

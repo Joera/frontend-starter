@@ -27,47 +27,55 @@
 <body>
     <section class="small-container">
 
-        <form id="rsvpform" class="form"> <!--  -->
+        <div class="beeldmerk"></div>
+        <h1>Public-Record.DAO</h1>
+        <h2>Subscription form</h2>
 
-            <div class="field-wrapper half" style="display:none">
-                <input type="text" id="token" name="token">
-            </div>
+        <button id="web3-connect">Connect to web3</button>
 
-            <div class="field-wrapper full">
-                <label for="name">Unique name <strong aria-hidden="true">*</strong></label>
+        <form id="subscription_form" class="form"> <!--  -->
+
+            <div class="field-wrapper full">       
                 <input type="text" id="name" name="name" required aria-required="true">
+                <label for="name">Unique name <strong aria-hidden="true">*</strong></label>
             </div>
-            <div class="field-wrapper full">
-                <label for="contract">Network <strong aria-hidden="true">*</strong></label>
+            <div class="field-wrapper half">
                 <input type="text" id="network" name="network" required aria-required="true">
+                <label for="contract">Network <strong aria-hidden="true">*</strong></label>
             </div>
-            <div class="field-wrapper full">
-                <label for="contract">Contract <strong aria-hidden="true">*</strong></label>
+            <div class="field-wrapper half">
                 <input type="text" id="contract" name="contract" required aria-required="true">
+                <label for="contract">Contract <strong aria-hidden="true">*</strong></label>
             </div>
 
             <!-- use ABI to select topics --> 
             <!-- textarea ... then parse ... then select -->
-            <div class="field-wrapper full">
+            <div id="abi-wrapper" class="field-wrapper full">
                 <label for="abi">Contract ABI <strong aria-hidden="true">*</strong></label>
-                <textarea type="text" id="abi" name="abi" rows=6"  required aria-required="true" aria-describedby=""></textarea>
-                <button id="abi_parse_button" type="button">Parse</button>
+                <textarea type="text" id="abi" name="abi" rows="4"  required aria-required="true" aria-describedby=""></textarea>
+                <!-- <button id="abi_parse_button" type="button">Parse</button> -->
             </div>
 
-
-            <!-- <div class="field-wrapper full">
-                <label for="topics">Topic 1 <strong aria-hidden="true">*</strong></label>
-                <input type="text" id="topics" name="topics" required aria-required="true" aria-describedby="">
+            <div id="events_wrapper">
+                <h3>select events to listen on</h3>
             </div>
-            <div class="field-wrapper full">
-                <label for="topics">Topic 1 <strong aria-hidden="true">*</strong></label>
-                <input type="text" id="topics" name="topics" required aria-required="true" aria-describedby="">
-            </div> -->
-            <div class="field-wrapper full">
-                <span class="radio">
-                    <input type="radio" id="none" name="services" value="widget">
+
+            <div id="subgraph-wrapper" class="field-wrapper full">
+                <input type="text" id="subgraph" name="subgraph" required aria-required="true">
+                <label for="subgraph">Subgraph url<strong aria-hidden="true">*</strong></label>
+            </div>
+
+            <div class="field-wrapper full hidden"  aria-hidden='true'>
+                <!-- <h3>Select services</h3> -->
+                <span class="checkbox">
+                    <input type="checkbox" id="widget" name="services" value="widget" checked aria-checked="true">
                     <label for="widget">Widget</label>
                 </span>
+            </div>
+
+            <div class="field-wrapper full">
+                <div aria-live="assertive" role="alert"></div>
+                <button type="submit">Submit</button>
             </div>
         </form>
     </section>

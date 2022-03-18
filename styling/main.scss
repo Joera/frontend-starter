@@ -2,8 +2,17 @@
 @import 'styleguide/__fonts.scss';
 @import 'styleguide/_colours.scss';
 @import 'styleguide/_typography.scss';
+@import 'styleguide/beeldmerk.scss';
 
 @import 'layouts/general.scss';
 @import 'layouts/containers.scss';
-@import 'layouts/form_elements.scss';
-@import 'layouts/radio_checkbox.scss';
+@import 'layouts/button.scss';
+
+@import 'forms/form_elements.scss';
+@import 'forms/input.scss';
+@import 'forms/select.scss';
+@import 'forms/textarea.scss';
+@import 'forms/radio_checkbox.scss';
+
+
+@import 'components/form.scss';
